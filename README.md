@@ -16,5 +16,5 @@ Oh, hi there! Thanks for visiting. Let me tell you a little about this sample pr
 ##Demo
 https://yummy-4-my-tummy.netlify.app
 
-###Credit & Inspiration
+###Credit & Inspiration  
 Project concept was inspired by [Jonas Schmedtmann](https://twitter.com/jonasschmedtman).
