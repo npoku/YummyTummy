@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 485 126" style="enable-background:new 0 0 485 126;" xml:space="preserve">
+<style>
+	.st0{filter:url(#a);}
+	.st1{fill:#544A46;}
+	.st2{font-family:'SignPainter-HouseScript';}
+	.st3{font-size:100px;}
+
+</style>
+<filter filterUnits="userSpaceOnUse" height="126" id="a" width="485" x="0" y="0">
+	<feOffset dy="3" input="SourceAlpha"></feOffset>
+	<feGaussianBlur result="b" stdDeviation="3"></feGaussianBlur>
+	<feFlood flood-opacity="0.161"></feFlood>
+	<feComposite in2="b" operator="in"></feComposite>
+	<feComposite in="SourceGraphic" operator="over"></feComposite>
+</filter>
+<g transform="translate(9 6)">
+	<g transform="matrix(1, 0, 0, 1, -9, -6)" class="st0">
+		<text transform="matrix(1 0 0 1 14.1244 81.0498)" class="st1 st2 st3">Yummy Tummy</text>
+	</g>
+</g>
+</svg>
